@@ -1,0 +1,7 @@
+My GitHub CLI learning notes
+
+1. GitHub CLI is installed.
+2. Git is installed.
+3. GitHub account is authenticated.
+4. Repository is cloned locally.
+5. Local repository is connected to GitHub.
