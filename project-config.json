@@ -1,0 +1,11 @@
+{
+  "project": "prodoos_repo1",
+  "version": "1.0.0",
+  "environment": "development",
+  "owner": "Harsha",
+  "features": {
+    "git": true,
+    "github": true,
+    "github_cli": true
+  }
+}
